@@ -8,8 +8,7 @@ date: Mar-Jul 2020
 location: "Santiago, Chile"
 ---
 
-Fundamental economic ideas and the operation of the economy on a national scale. Production,
-distribution and consumption of goods and services, the exchange process, the role of government, the national income and its
+Wconomy on a national scale. Production, distribution and consumption of goods and services, the exchange process, the role of government, the national income and its
 distribution, GDP, consumption function, savings function, investment spending, the multiplier principle and the influence of
 government spending on income and output. Analysis of monetary policy, including the banking system and the Federal Reserve
 System.
