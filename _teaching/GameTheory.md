@@ -2,7 +2,7 @@
 title: "Game Theory"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/GameTheory
 venue: "Universidad Diego Portales"
 date: Mar-Jul 2019
 location: "Santiago, Chile"
