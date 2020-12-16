@@ -12,7 +12,7 @@ Know the fundamentals of Inferential Statistics and use the various parametric s
 Manipulate, process and analyze data of the different topics of the course using computational tools. 
 The main computational environment is the statistical language R, but in selected topics you will learn some equivalences in SPSS and / or STATA
 
-Heading 1
+[Assistantship 1](https://pages.github.com/)
 ======
 
 Heading 2
