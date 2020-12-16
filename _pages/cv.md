@@ -11,31 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor in Bussines, Major in Economics, Universidad Diego Portales, 2015 - 2020
+  * Minor in Humanities (Five general training courses, among them Dramaturgy Workshop and Writing Procedures)
+* Primary and secondary education, Colegio San Pedro Nolasco, 2000 - 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2015: Account executive
+  * Banco de Chile
+  * Duties included: 2° Prof Practice: Customer service, portfolio management, financial and business background evaluation.
+  * Supervisor: Jan - Feb 2019
+
+* Fall 2015: Collection Assistant
+  * Sinergía Inmobiliaria S.A
+  * Duties included: 1°Práctica Prof: Monitoring and registration of deed, delivery and withdrawal of deeds in notaries.
+  * Supervisor: Jan - Feb 2017
+  
+
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Programming languages
+  * Python
+  * Rstudio 
+  * Stata
+* Frameworks & Libraries
+  * Pandas
+  * Numpy 
+  * Requests
+  * Pandas
+  * Matplotlib
+  * Ggplot2
+  * Dplyr
+  * Tidyr 
+  * Shiny
+* Microsoft
+  * Excel
+  * PowerPoint
+  * Word
+* Languages
+  * Native: Spanish
+  * Fluid: English
 
 Teaching
 ======
