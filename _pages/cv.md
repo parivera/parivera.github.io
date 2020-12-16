@@ -18,15 +18,15 @@ Education
 Work experience
 ======
 
-* Summer 2015: Account executive
+* Jan - Feb 2019: Account executive
   * Banco de Chile
-  * Duties included: 2° Prof Practice: Customer service, portfolio management, financial and business background evaluation.
-  * Supervisor: Jan - Feb 2019
+  * 2° Prof Practice: Customer service, portfolio management, financial and business background evaluation.
 
-* Fall 2015: Collection Assistant
+
+* Jan - Feb 2017: Collection Assistant
   * Sinergía Inmobiliaria S.A
-  * Duties included: 1°Práctica Prof: Monitoring and registration of deed, delivery and withdrawal of deeds in notaries.
-  * Supervisor: Jan - Feb 2017
+  * 1° Prof Practice: Monitoring and registration of deed, delivery and withdrawal of deeds in notaries.
+
   
 
   
