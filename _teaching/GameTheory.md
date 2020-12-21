@@ -13,27 +13,28 @@ to predict behavior in these interactions and to conceive of ways in which alter
 social outcomes.
 
 
-Ayudantía 1
+
+[Assistantship 4](https://drive.google.com/file/d/15WlJaP5ykHBkoWMnUrgoF2_N2k6SdKQh/view?usp=sharing)
 ======
 
-Ayudantía 1
+[Assistantship 5](https://drive.google.com/file/d/1OWvckwpm4NnYEEdYIEE7yMrKeBTXhb5t/view?usp=sharing)
 ======
 
-Ayudantía 1
-======
-Ayudantía 1
+[Assistantship 6](https://drive.google.com/file/d/1kdkzIEFri5pJgQVYESej8DwnQ4JkbVRu/view?usp=sharing)
 ======
 
-Ayudantía 1
+[Assistantship 8](https://drive.google.com/file/d/1Hbhb2w3lnvsBWPROFei2zbIG-_rcoCyk/view?usp=sharing)
 ======
 
-Ayudantía 1
-======
-Ayudantía 1
+[Assistantship 9](https://drive.google.com/file/d/1FBkyTIVnY64A2-ASzrYJzXxnhMRNJiMZ/view?usp=sharing)
 ======
 
-Ayudantía 1
+[Assistantship 10](https://drive.google.com/file/d/1FphiB4IFYfD3Z25HF-sIJdcKWoCIm1B_/view?usp=sharing)
+======
+[Assistantship 11](https://drive.google.com/file/d/12tTktvAJJYDNgXDxUPFGfdsLf78t0G95/view?usp=sharing)
 ======
 
-Ayudantía 1
+[Assistantship 12 (and guide)](https://drive.google.com/file/d/1sLkWSp-1f9a0TEb82jlJaDFH00OchH0b/view?usp=sharing)
 ======
+
+
