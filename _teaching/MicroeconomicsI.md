@@ -13,7 +13,7 @@ their workings. The course covers the basic economic models of consumer theory,
 production theory, and partial equilibrium.
 
 
-[Assistantship guide 3(https://drive.google.com/file/d/17e3XYoOXJVtqzvFN-j-xpWsDO55NAcUr/view?usp=sharing)
+[Assistantship guide 3](https://drive.google.com/file/d/17e3XYoOXJVtqzvFN-j-xpWsDO55NAcUr/view?usp=sharing)
 ======
 
 [Assistantship 4](https://drive.google.com/file/d/1kNJGCvf9mZz2XhKmICVBMKxnysic-gGe/view?usp=sharing)
