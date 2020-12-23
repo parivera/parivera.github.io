@@ -1,7 +1,7 @@
 ---
 title: "Macroeconomics I"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/MacroeconomicsI
 venue: "Universidad Diego Portales"
 date: Mar-Jul 2020
