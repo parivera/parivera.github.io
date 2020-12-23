@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pablo Rivera"
-  avatar           : "profile.png"
+  avatar           : 
   bio              : "Economist"
   location         : "Santiago, Chile"
   employer         : 
