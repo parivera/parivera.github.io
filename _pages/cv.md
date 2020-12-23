@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV](https://drive.google.com/file/d/1dFkU7dz4WqD1rDW7fGIgluJsbpVVN5G-/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1KB3d4xRrc7DQ834EeBBt0M3c6rEm03cS/view?usp=sharing)
 ======
 
 Education
