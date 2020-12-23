@@ -1,14 +1,14 @@
 ---
 layout: archive
 title: "CV"
-permalink: 
-"https://drive.google.com/file/d/1dFkU7dz4WqD1rDW7fGIgluJsbpVVN5G-/view?usp=sharing"
+permalink: cv
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[CV](https://drive.google.com/file/d/1dFkU7dz4WqD1rDW7fGIgluJsbpVVN5G-/view?usp=sharing)
+======
 
 Education
 ======
