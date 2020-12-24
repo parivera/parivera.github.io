@@ -20,7 +20,7 @@ systems of equations, vectors, matrices, orthogonality, subspaces, and the eigen
 [Assistantship 6](https://drive.google.com/file/d/1DJDvwFmDhxRsGfRl40h5ELVsNHztuV-e/view?usp=sharing)
 ======
 
-[Assistantshipg 7](https://drive.google.com/file/d/1-xQOOTAHrxU-bUuO7cmwJZdpJYE--4c-/view?usp=sharing)
+[Assistantship 7](https://drive.google.com/file/d/1-xQOOTAHrxU-bUuO7cmwJZdpJYE--4c-/view?usp=sharing)
 ======
 
 [Assistantship 8](https://drive.google.com/file/d/1ys0g-qMTs5QNUw-Y-20sEgFkFvC_0aEF/view?usp=sharing)
