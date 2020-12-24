@@ -23,7 +23,7 @@ sessions.
 [Assistantships 5 (Excel)](https://drive.google.com/file/d/1tK3QQLqgxRQqDdqYRZimK1ckIjkmj1zw/view?usp=sharing)
 ======
 
-[Assistantships 6](https://drive.google.com/file/d/1vQgabBfClkFHvK9mllM3w7JzzKpLQmVX/view?usp=sharing)
+[Assistantships 6 (R)](https://drive.google.com/file/d/1vQgabBfClkFHvK9mllM3w7JzzKpLQmVX/view?usp=sharing)
 ======
 
 [Assistantships 7 (R)](https://drive.google.com/file/d/1WNJk5zolTezojKpz0UTLaw1vXgCEegAb/view?usp=sharing)
